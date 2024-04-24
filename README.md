@@ -1,1 +1,2 @@
-Resoluções para exercícios do treinamento para programação competitiva
+Resoluções de alguns exercícios da plataforma beecrowd. 
+Exercícios resolvidos por mim como meio de estudo.
