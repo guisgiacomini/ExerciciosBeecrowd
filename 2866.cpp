@@ -18,7 +18,8 @@
 
     string decodifica(string entrada){
         string saida = "";
-        for(int i = 0; i < entrada.length(); i++){
+        int tamanho = entrada.length();
+        for(int i = 0; i < tamanho; i++){
             if (islower(entrada[i])){
                 saida = entrada[i] + saida;
             }
